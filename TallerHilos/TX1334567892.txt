@@ -1,0 +1,4 @@
+credito,150
+debito,30
+debito,80
+credito,150
